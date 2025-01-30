@@ -1,0 +1,56 @@
+
+.centrar-div{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    color: lightsteelblue;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 1.5;
+    font-family: "Poppins", sans-serif;
+    text-decoration: line-through underline;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+
+img {
+    box-sizing: content-box; /*deja un tamaño constante*/
+    width: 350px;
+    height: 360px;
+    padding: 20px; /* Espaciado uniforme en todos los lados*/
+
+    border-width: 5px;
+    border-color: steelblue;
+    border-style: solid;
+
+    margin: 20px /*esapcio fuera del borde que lo separa de los demás elementos*/
+}
+
+
+.espaciar-contacto {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+#prueba-justificado {
+    text-align: justify;
+    word-spacing: 10px;
+}
+
+a {
+    color: lightskyblue;
+    font-size: 30px;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+p {
+    font-family: "Poppins", sans-serif;
+    font-size: 20px
+}

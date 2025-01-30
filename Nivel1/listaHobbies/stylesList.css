@@ -1,0 +1,20 @@
+.div-centrado {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+h1{
+    font-size: 35px;
+    color: steelblue
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+ul {
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left
+}
